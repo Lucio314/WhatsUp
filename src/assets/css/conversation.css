@@ -1,0 +1,21 @@
+.cool {
+    display: block;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    background-color: #25d366;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: larger;
+    
+}
+
+.tail {
+    width: 310px;
+}
+
+.icones {
+   
+}
